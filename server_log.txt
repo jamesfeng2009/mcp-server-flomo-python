@@ -1,0 +1,10 @@
+DEBUG:mcp.server.lowlevel.server:Initializing server 'Flomo MCP Server'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+INFO:flomo-server:[FlomoServer] Starting server
+DEBUG:asyncio:Using selector: KqueueSelector
